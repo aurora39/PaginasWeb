@@ -1,0 +1,14 @@
+#mensaje h2{ 
+    color: crimson;
+    position: relative; 
+    font-size: 40px; 
+    text-transform: uppercase; 
+    font-weight: normal; 
+    top: 20px;
+}
+
+ article h1{
+     color: fuchsia; 
+     padding-left: 30px;
+     margin-bottom: 15px;
+}
